@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="subject" max_length="40" name="x_594707_srec_subject" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="sub1" max_length="5" name="sub1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="sub2" max_length="3" name="sub2" type="integer"/>
+    </element>
+</database>
